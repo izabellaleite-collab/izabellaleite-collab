@@ -1,126 +1,69 @@
-# Izabella Leite
+# 👋 Olá! Meu nome é Izabella, mas pode me chamar de Iza.
 
-**`QA Engineer | Data Enthusiast`**
+## 🚀 Sobre Mim
 
-Olá! Sou Izabella Leite 👋
+QA Engineer apaixonada por tecnologia, qualidade de software e aprendizado contínuo.
 
-QA Júnior apaixonada por tecnologia, qualidade de software e aprendizado contínuo. Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação.
-Minha atuação está focada em Quality Assurance, testes de software, automação, validação de APIs e bancos de dados. Ao mesmo tempo, venho direcionando meus estudos para SQL, análise de dados e Data Science, área na qual pretendo construir minha especialização e desenvolver minha carreira no futuro. 
-Neste espaço compartilho projetos, estudos e minha evolução profissional, unindo qualidade de software, tecnologia e dados.
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação. Possuo experiência com testes manuais, validação de APIs, análise de requisitos, bancos de dados SQL, metodologias ágeis e ferramentas de gestão de qualidade.
+
+Atualmente direciono meus estudos para Automação de Testes, Python, SQL Avançado, Análise de Dados e Data Science, buscando unir qualidade de software e dados para gerar soluções cada vez mais eficientes.
+
+Neste espaço compartilho projetos, estudos, certificações e minha evolução profissional.
 
 ---
 
-### Linguagens e Tecnologias
+## 🎯 Áreas de Interesse
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
+![QA](https://img.shields.io/badge/QA-Engineer-blue)
+![Automation](https://img.shields.io/badge/Test%20Automation-Selenium-green)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
+![Python](https://img.shields.io/badge/Python-Data%20Science-yellow)
+![APIs](https://img.shields.io/badge/API-Testing-red)
+![Data Science](https://img.shields.io/badge/Data-Science-purple)
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+## 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+<p align="left">
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
+<img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" 
-/>
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-/>
+<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+<img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
+<img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
-/>
+<img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
 
-<img 
-    align="left" 
-    alt="Azure DevOps" 
-    title="Azure DevOps"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"  
-/>
+<img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 
-<br/>
-<br/>
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
+<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
+<img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+
+<img alt="Azure DevOps" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
+
+<img alt="Jira" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabellaleite-collab&show_icons=true&theme=tokyonight&count_private=true"/>
+
+## 🔥 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izabellaleite-collab&theme=tokyo-night"/>
+</p>
