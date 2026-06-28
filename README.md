@@ -11,17 +11,13 @@ Atualmente direciono meus estudos para Automação de Testes, Python, SQL Avanç
 Neste espaço compartilho projetos, estudos, certificações e minha evolução profissional.
 
 ---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izabellaleite-collab/izabellaleite-collab/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izabellaleite-collab/izabellaleite-collab/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/izabellaleite-collab/izabellaleite-collab/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-## 🎯 Áreas de Interesse
-
-![QA](https://img.shields.io/badge/QA-Engineer-blue)
-![Automation](https://img.shields.io/badge/Test%20Automation-Selenium-green)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
-![Python](https://img.shields.io/badge/Python-Data%20Science-yellow)
-![APIs](https://img.shields.io/badge/API-Testing-red)
-![Data Science](https://img.shields.io/badge/Data-Science-purple)
-
----
+###
 
 ## 🛠️ Tecnologias e Ferramentas
 
