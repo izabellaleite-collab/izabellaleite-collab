@@ -53,11 +53,6 @@ Neste espaço compartilho projetos, estudos, certificações e minha evolução 
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabellaleite-collab&show_icons=true&theme=tokyonight&count_private=true"/>
-
 ## 🔥 Atividade no GitHub
 
 <p align="center">
