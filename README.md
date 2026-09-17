@@ -1,14 +1,21 @@
-# 👋 Olá! Meu nome é Izabella, mas pode me chamar de Iza.
+# Olá! Sou a Izabella, uma apaixonada por tecnologia. <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 ## 🚀 Sobre Mim
 
-QA Engineer apaixonada por tecnologia, qualidade de software e aprendizado contínuo.
+🌱 Formada em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência da Computação.
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação. Possuo experiência com testes manuais, validação de APIs, análise de requisitos, bancos de dados SQL, metodologias ágeis e ferramentas de gestão de qualidade.
+📊 Em transição para a área de Dados, com foco em Python, SQL, Power BI, Estatística e Machine Learning.
 
-Atualmente direciono meus estudos para Automação de Testes, Python, SQL Avançado, Análise de Dados e Data Science, buscando unir qualidade de software e dados para gerar soluções cada vez mais eficientes.
+💻 Experiência em Qualidade de Software, testes de APIs REST, análise de requisitos, validação de dados e consultas SQL.
 
-Neste espaço compartilho projetos, estudos, certificações e minha evolução profissional.
+🔍 Apaixonada por transformar dados em informações úteis para apoiar decisões e resolver problemas.
+
+📚 Sempre aprendendo novas tecnologias e desenvolvendo projetos práticos para evoluir como Cientista de Dados.
+
+---
+📫 Conecte-se comigo.
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/izabellapereiraleite)
 
 ---
 <picture data-importer="pacman">
@@ -23,11 +30,13 @@ Neste espaço compartilho projetos, estudos, certificações e minha evolução 
 
 <p align="left">
 
-<img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+
+<img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+
+<img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 
 <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
@@ -35,26 +44,16 @@ Neste espaço compartilho projetos, estudos, certificações e minha evolução 
 
 <img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
-<img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-
-<img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-<img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-
-<img alt="Azure DevOps" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg"/>
-
-<img alt="Jira" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"/>
+<img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
 </p>
 
 ---
 
-## 🔥 Atividade no GitHub
+# 🧠 Data Science Loading...
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=izabellaleite-collab&theme=tokyo-night"/>
-</p>
+██████░░░░░░░░░░░░░░ 30%
