@@ -2,15 +2,13 @@
 
 ## 🚀 Sobre Mim
 
-🌱 Formada em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência da Computação.
+Analista de Dados em formação
 
-📊 Em transição para a área de Dados, com foco em Python, SQL, Power BI, Estatística e Machine Learning.
+Apaixonada por tecnologia, dados e resolução de problemas, estou construindo minha carreira na área de Dados após experiências em QA, Infraestrutura e Suporte de TI. Gosto de transformar informações em insights úteis, explorando desde a coleta e tratamento dos dados até a criação de análises e dashboards.
 
-💻 Experiência em Qualidade de Software, testes de APIs REST, análise de requisitos, validação de dados e consultas SQL.
+No dia a dia, utilizo principalmente SQL e Python, além de ferramentas de visualização como Power BI. Minha experiência com QA desenvolveu meu olhar analítico, atenção aos detalhes e capacidade de investigar problemas, habilidades que levo para o universo dos dados.
 
-🔍 Apaixonada por transformar dados em informações úteis para apoiar decisões e resolver problemas.
-
-📚 Sempre aprendendo novas tecnologias e desenvolvendo projetos práticos para evoluir como Cientista de Dados.
+Atualmente curso Ciência da Computação e sigo aprofundando meus conhecimentos em Análise de Dados, Ciência de Dados e Machine Learning através de estudos e projetos práticos.
 
 ---
 📫 Conecte-se comigo.
@@ -25,6 +23,7 @@
 </picture>
 
 ###
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -54,6 +53,11 @@
 
 ---
 
-# 🧠 Data Science Loading...
+## 🧠 Data Science Loading...
 
 ██████░░░░░░░░░░░░░░ 30%
+
+---
+
+## Projetos pessoais:
+Aqui você encontra os meus projetos na área de Data Science, Machine Learning e Data Analysis.
