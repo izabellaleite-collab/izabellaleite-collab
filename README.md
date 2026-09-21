@@ -2,13 +2,13 @@
 
 ## 🚀 Sobre Mim
 
-Analista de Dados em formação
+Desenvolvedora C em formação
 
-Apaixonada por tecnologia, dados e resolução de problemas, estou construindo minha carreira na área de Dados após experiências em QA, Infraestrutura e Suporte de TI. Gosto de transformar informações em insights úteis, explorando desde a coleta e tratamento dos dados até a criação de análises e dashboards.
+Apaixonada por tecnologia, programação e resolução de problemas, estou construindo minha carreira na área de desenvolvimento de software após experiências em QA, Infraestrutura e Suporte de TI. Tenho grande interesse em entender como os sistemas funcionam internamente e em criar soluções eficientes, seguras e de alta performance.
 
-No dia a dia, utilizo principalmente SQL e Python, além de ferramentas de visualização como Power BI. Minha experiência com QA desenvolveu meu olhar analítico, atenção aos detalhes e capacidade de investigar problemas, habilidades que levo para o universo dos dados.
+Atualmente estou aprofundando meus conhecimentos em linguagem C, estruturas de dados, algoritmos, lógica de programação e desenvolvimento de sistemas. Minha experiência em QA contribuiu para desenvolver um olhar analítico, atenção aos detalhes e foco na qualidade, características essenciais para a criação de softwares robustos e confiáveis.
 
-Atualmente curso Ciência da Computação e sigo aprofundando meus conhecimentos em Análise de Dados, Ciência de Dados e Machine Learning através de estudos e projetos práticos.
+Curso Ciência da Computação e busco evoluir continuamente por meio de estudos, projetos práticos e desafios de programação, com o objetivo de atuar como Desenvolvedora C e participar da construção de soluções que gerem impacto real para empresas e usuários.
 
 ---
 📫 Conecte-se comigo.
@@ -27,37 +27,14 @@ Atualmente curso Ciência da Computação e sigo aprofundando meus conhecimentos
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-
-<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-
-<img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-
-<img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-
-<img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<img alt="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-
-<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-</p>
-
+<p align="left"> <img alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </p>
 ---
 
-## 🧠 Data Science Loading...
+## 🧠 Programador C Loading...
 
 ██████░░░░░░░░░░░░░░ 30%
 
 ---
 
 ## Projetos pessoais:
-Aqui você encontra os meus projetos na área de Data Science, Machine Learning e Data Analysis.
+Aqui você encontra meus projetos e experiências em desenvolvimento C.
