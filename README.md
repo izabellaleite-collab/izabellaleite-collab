@@ -11,7 +11,7 @@ Atualmente estou aprofundando meus conhecimentos em linguagem C, estruturas de d
 Curso Ciência da Computação e busco evoluir continuamente por meio de estudos, projetos práticos e desafios de programação, com o objetivo de atuar como Desenvolvedora C e participar da construção de soluções que gerem impacto real para empresas e usuários.
 
 ---
-📫 Conecte-se comigo.
+Conecte-se comigo.
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabellapereiraleite/)
 
