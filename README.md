@@ -47,4 +47,4 @@ Aqui você encontra meus projetos e experiências em desenvolvimento C.
 | Sistema de Caixa Eletrônico | Simulação de operações bancárias como saque, depósito, transferência e consulta de saldo via terminal. | C | [Acessar](https://github.com/izabellaleite-collab/caixa-eletronico-em-c) |
 | Sistema Organizacional de Biblioteca | Sistema de gerenciamento de biblioteca projetado para realizar o cadastro, consulta, atualização e remoção de livros. | C | [Acessar](https://github.com/izabellaleite-collab/BookVault) |
 |Snake Game | Um clássico jogo da cobrinha desenvolvido em C | C | [Acessar] |
-|Tamagotchi no Terminal | Simulador de animal virtual em C com sistema de fome, energia e felicidade.| C | [Acessar] |
+|Tamagotchi no Terminal | Simulador de animal virtual em C com sistema de fome, energia e felicidade.| C | [Acessar](https://github.com/izabellaleite-collab/TerminalTamagotchi) |
