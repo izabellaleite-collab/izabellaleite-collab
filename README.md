@@ -48,3 +48,4 @@ Aqui você encontra meus projetos e experiências em desenvolvimento C.
 | Sistema Organizacional de Biblioteca | Sistema de gerenciamento de biblioteca projetado para realizar o cadastro, consulta, atualização e remoção de livros. | C | [Acessar](https://github.com/izabellaleite-collab/BookVault) |
 |Snake Game | Um clássico jogo da cobrinha desenvolvido em C | C | [Acessar] |
 |Tamagotchi no Terminal | Simulador de animal virtual em C com sistema de fome, energia e felicidade.| C | [Acessar](https://github.com/izabellaleite-collab/TerminalTamagotchi) |
+|Fluxy| Sistema de gestão financeira com controle de fluxo de caixa, estoque e clientes.| HTML, CSS, JavaScript, Node.js e C | [Acessar](https://github.com/izabellaleite-collab/Fluxy) |
